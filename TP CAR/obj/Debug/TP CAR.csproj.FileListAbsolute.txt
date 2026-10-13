@@ -1,0 +1,7 @@
+C:\vrmx\TP CAR\TP CAR\obj\Debug\TP CAR.csproj.AssemblyReference.cache
+C:\vrmx\TP CAR\TP CAR\obj\Debug\TP CAR.csproj.CoreCompileInputs.cache
+C:\vrmx\TP CAR\TP CAR\bin\Debug\TP CAR.exe.config
+C:\vrmx\TP CAR\TP CAR\bin\Debug\TP CAR.exe
+C:\vrmx\TP CAR\TP CAR\bin\Debug\TP CAR.pdb
+C:\vrmx\TP CAR\TP CAR\obj\Debug\TP CAR.exe
+C:\vrmx\TP CAR\TP CAR\obj\Debug\TP CAR.pdb

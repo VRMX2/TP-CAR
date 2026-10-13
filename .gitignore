@@ -1,0 +1,10 @@
+(
+echo .vs/
+echo bin/
+echo obj/
+echo *.user
+) > .gitignore
+
+git add .
+git commit -m "Add project files"
+git push
